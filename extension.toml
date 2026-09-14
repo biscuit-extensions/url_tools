@@ -1,0 +1,7 @@
+[extension]
+id = "url_tools"
+name = "Url Tools"
+version = "0.1.0"
+description = "Url Tools extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
